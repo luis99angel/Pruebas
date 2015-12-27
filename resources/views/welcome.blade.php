@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 XD</div>
+                <div class="title">Laravel 5 XDD</div>
             </div>
         </div>
     </body>
